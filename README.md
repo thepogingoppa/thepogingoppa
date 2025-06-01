@@ -1,5 +1,5 @@
 
-<h2 align="left">Hello there, My name is Jozua Patalan </h2>
+<h1 align="left">Hello there, My name is Jozua Patalan </h1>
 <h3>Web Developer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;UX Designer</h3>
 
 ###
