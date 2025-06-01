@@ -1,5 +1,6 @@
 
-<h2 align="left">Hi 👋! My name is Jozua Patalan and I'm a Web Developer from New York</h2>
+<h2 align="left">Hello there, My name is Jozua Patalan </h2>
+<h3>Web Developer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;UX Designer</h3>
 
 ###
 
