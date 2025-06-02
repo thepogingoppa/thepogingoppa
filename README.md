@@ -5,8 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepogingoppa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thepogingoppa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=thepogingoppa&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thepogingoppa&theme=dark&hide_border=false&include_all_commits=true&count_private=true"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thepogingoppa&theme=dark&hide_border=false" height="195" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepogingoppa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ###
